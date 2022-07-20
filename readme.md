@@ -191,4 +191,12 @@ git pull - стянуть, попытается смержить ваш файл
 
  ![screen3](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/93f99adb-ca9b-46f7-874a-043070fa5a46/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220720%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220720T082500Z&X-Amz-Expires=86400&X-Amz-Signature=30710b69f102367fbcbf9edf21af93604e61ba44ac531bdaa4f9f940468a1e1a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
- 
+ на gitHUb принято, чтобы у каждого файла был файл readme, принято называть его капсом (даем описание, что происходит на этом проекте)
+
+получается, мы добавили новую ветку и туда дописали что-то свое, сохранили эти изменения и решили предложить их автору проекта, для этого уже на самом гитхабе появится кнопка Compare & pull request
+![screen4](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/69ff4a0e-118e-4a5a-97c2-e0749a4500c8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220720%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220720T091219Z&X-Amz-Expires=86400&X-Amz-Signature=488a492c9cfd1e3785ba2c5b7566852cb51be7f414b4391888298c2ebca8e462&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+
+github предложит добавить описание
+
+![screen5](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a9e6f642-71af-4d64-95e4-c8fad7949eac/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220720%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220720T091314Z&X-Amz-Expires=86400&X-Amz-Signature=095cb25267296195e79eeeb0d8a71c4a21b65732ffd0e3752ac9d68ebb7f08cc&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+
