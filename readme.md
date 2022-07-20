@@ -167,6 +167,28 @@
 
 20.07.22
 
+Работа с удаленными репозиториями (с теми, что не на нашем ПК)
 
+тренажер Learn Git Branching
+
+GitHub - сервис, позволяющий хранить свой репозиторий на сервере
+
+git clone - и вставляем ссылку, как на скрине1, но предварительно создаем папку и не делаем ее репозиторием
+
+![screen1](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d10e7aca-39c3-422c-b0b1-ada70ae46039/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220720%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220720T082038Z&X-Amz-Expires=86400&X-Amz-Signature=886a72fb1b62768df223991b460e2baac941100d13a8e78ed38fbc60d2d7e189&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+
+cd (change directory) - потом название папки из GitHub
+
+чтобы залить свой репозиторий на GitHub, необходимо для начала создать свой аккаунт там.
+
+![screen2](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/41e7a54e-02c8-4ebc-a1e5-f59e0f880c00/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220720%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220720T082132Z&X-Amz-Expires=86400&X-Amz-Signature=1313a5838d3592447d8eb3c479440ebdd9c315816f238c64f93730c725592729&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+
+git push - толкать. при первом пуше надо будет авторизоваться
+
+git pull - стянуть, попытается смержить ваш файл с актуальным с GitHub
+
+ вот мы нашли репозиторий, но у нас нет туда доступа, чтобы его загрузить к себе, жмем на Fork (вилка)
+
+ ![screen3](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/93f99adb-ca9b-46f7-874a-043070fa5a46/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220720%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220720T082500Z&X-Amz-Expires=86400&X-Amz-Signature=30710b69f102367fbcbf9edf21af93604e61ba44ac531bdaa4f9f940468a1e1a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
  
