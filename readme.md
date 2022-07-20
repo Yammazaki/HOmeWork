@@ -200,3 +200,5 @@ github предложит добавить описание
 
 ![screen5](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a9e6f642-71af-4d64-95e4-c8fad7949eac/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220720%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220720T091314Z&X-Amz-Expires=86400&X-Amz-Signature=095cb25267296195e79eeeb0d8a71c4a21b65732ffd0e3752ac9d68ebb7f08cc&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
+Сейчас я добавляю информацию напрямую из GitHub
+
